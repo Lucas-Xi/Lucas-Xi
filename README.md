@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=Lucas-Xi&show_icons=true&theme=transparent)
 ![Visitor Count](https://profile-counter.glitch.me/Lucas-Xi/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Xi&layout=compact&theme=tokyonight)
